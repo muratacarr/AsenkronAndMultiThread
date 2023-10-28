@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethods", "TaskMethods\TaskMethods.csproj", "{CC89B8BC-DF7A-42AC-B5F3-57D168C82B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskMethods", "TaskMethods\TaskMethods.csproj", "{CC89B8BC-DF7A-42AC-B5F3-57D168C82B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMethodsWinForm", "TaskMethodsWinForm\TaskMethodsWinForm.csproj", "{A02733EC-23C8-4DB0-BBC4-8DDDCF6AD93A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskMethodsWinForm", "TaskMethodsWinForm\TaskMethodsWinForm.csproj", "{A02733EC-23C8-4DB0-BBC4-8DDDCF6AD93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellation", "TaskCancellation\TaskCancellation.csproj", "{287FCC3B-7441-4DC7-91DC-44E486338AE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A02733EC-23C8-4DB0-BBC4-8DDDCF6AD93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A02733EC-23C8-4DB0-BBC4-8DDDCF6AD93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A02733EC-23C8-4DB0-BBC4-8DDDCF6AD93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287FCC3B-7441-4DC7-91DC-44E486338AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287FCC3B-7441-4DC7-91DC-44E486338AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287FCC3B-7441-4DC7-91DC-44E486338AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287FCC3B-7441-4DC7-91DC-44E486338AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

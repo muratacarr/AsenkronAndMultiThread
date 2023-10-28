@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellationToken.API",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLibrary", "TaskParallelLibrary\TaskParallelLibrary.csproj", "{922AFC50-B5A3-4F99-BE75-DEB973D81732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQMethods", "PLINQMethods\PLINQMethods.csproj", "{3199CB3F-6401-4D6E-947F-0150ACEA37D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3199CB3F-6401-4D6E-947F-0150ACEA37D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3199CB3F-6401-4D6E-947F-0150ACEA37D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3199CB3F-6401-4D6E-947F-0150ACEA37D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3199CB3F-6401-4D6E-947F-0150ACEA37D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

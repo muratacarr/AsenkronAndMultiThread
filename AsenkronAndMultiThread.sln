@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskMethodsWinForm", "TaskM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellationToken.API", "TaskCancellationToken.API\TaskCancellationToken.API.csproj", "{B0AE8684-A776-4028-AAAC-1B5A2AD571F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLibrary", "TaskParallelLibrary\TaskParallelLibrary.csproj", "{922AFC50-B5A3-4F99-BE75-DEB973D81732}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B0AE8684-A776-4028-AAAC-1B5A2AD571F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0AE8684-A776-4028-AAAC-1B5A2AD571F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0AE8684-A776-4028-AAAC-1B5A2AD571F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922AFC50-B5A3-4F99-BE75-DEB973D81732}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
